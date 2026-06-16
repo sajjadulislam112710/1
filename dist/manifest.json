@@ -1,0 +1,26 @@
+{
+  "name": "Cashometry",
+  "short_name": "Cashometry",
+  "description": "A premium personal finance app with multi-wallet support, goal tracking, and real-time expense management.",
+  "start_url": "https://cashometry.vercel.app/",
+  "scope": "https://cashometry.vercel.app/",
+  "id": "https://cashometry.vercel.app/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cashometry.vercel.app/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cashometry.vercel.app/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
